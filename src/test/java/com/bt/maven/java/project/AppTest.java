@@ -7,7 +7,6 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  * Commented by Dinesh From CentOS
- * PIDJHasjfajkfnadbfbka
  */
 public class AppTest 
     extends TestCase
