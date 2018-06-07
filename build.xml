@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <project name="${project.name}" default="main">
 
-	<!--- Including properties file  here-->
+	<!--- Including properties file insert  here-->
 	<property file="build.properties"/>
 
 	<target name="init">
