@@ -1,4 +1,5 @@
 //Updated some code by DInesh
+// Checking SSH communication   
 package com.bt.general;
 
 import java.util.Date;
